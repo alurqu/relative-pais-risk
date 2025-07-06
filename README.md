@@ -21,7 +21,7 @@ Tesch et al, "Post-viral symptoms and conditions are more frequent in COVID-19 t
 
 Liu et al, "Comparison of post-acute sequelae following hospitalization for COVID-19 and influenza", BMC Medicine (2023), https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-023-03200-2, https://doi.org/10.1186/s12916-023-03200-2
 
-Quinn et al, "Comparison of Medical and Mental Health Sequelae Following Hospitalization for COVID-19, Influenza, and Sepsis ", JAMA Internal Medicine (2023), https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2806192, https://doi.org/10.1001/jamainternmed.2023.2228
+Quinn et al, "Comparison of Medical and Mental Health Sequelae Following Hospitalization for COVID-19, Influenza, and Sepsis", JAMA Internal Medicine (2023), https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2806192, https://doi.org/10.1001/jamainternmed.2023.2228
 
 Xie et al, "Long-term outcomes following hospital admission for COVID-19 versus seasonal influenza: a cohort study", The Lancet Infectious Diseases (2024), https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(23)00684-9/fulltext, https://doi.org/10.1016/S1473-3099(23)00684-9
 
