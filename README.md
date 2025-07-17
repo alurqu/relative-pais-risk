@@ -25,6 +25,8 @@ Quinn et al, "Comparison of Medical and Mental Health Sequelae Following Hospita
 
 Xie et al, "Long-term outcomes following hospital admission for COVID-19 versus seasonal influenza: a cohort study", The Lancet Infectious Diseases (2024), https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(23)00684-9/fulltext, https://doi.org/10.1016/S1473-3099(23)00684-9
 
+Taquet et al, “Neurological and psychiatric risk trajectories after SARS-CoV-2 infection: an analysis of 2-year retrospective cohort studies including 1 284 437 patients”, Lancet Psychiatry (2022), https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(22)00260-7/fulltext, https://doi.org/10.1016/S2215-0366(22)00260-7
+
 ### Additional References
 
 Other relevant more qualitative references not summarized in the table include:
