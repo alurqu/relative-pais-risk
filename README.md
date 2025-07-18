@@ -31,7 +31,7 @@ Taquet et al, “Neurological and psychiatric risk trajectories after SARS-CoV-2
 
 Other relevant more qualitative references not summarized in the table include:
 
-Choutka et al, “Unexplained Post-Acute Infection Syndromes“, Nature Medicine (2022), https://www.nature.com/articles/s41591-022-01810-6, https://doi.org/10.1038/s41591-022-01810-64
+Choutka et al, “Unexplained Post-Acute Infection Syndromes“, Nature Medicine (2022), https://www.nature.com/articles/s41591-022-01810-6, https://doi.org/10.1038/s41591-022-01810-6
 
 Stefano, "Historical Insight into Infections and Disorders Associated with Neurological and Psychiatric Sequelae Similar to Long COVID", Medical Science Monitor (2021), https://medscimonit.com/abstract/full/idArt/931447, https://doi.org/10.12659/MSM.931447
 
